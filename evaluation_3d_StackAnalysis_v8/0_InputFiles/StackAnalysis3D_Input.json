@@ -1,0 +1,38 @@
+{
+    "version": 0.1,
+    "mode": "transfo",
+    "basicPath": "X:",
+    "table": "Office-001",
+    "basicEvaluationDirectory": "2_Eval",
+    "calibrationDirectory": "CalibParams",
+    "tablePlaneTrafoDir": "TablePlaneCoordinateSystem",
+    "tablePlaneTrafoFileNames": [
+	"OverallTablePlaneTransformation_leftSystem.csv"
+    ],
+    "installation": "Installation_2023-Oct_01",
+    "videoName": "2023-10-18_16-35-43",
+    "evaluationId": "driftCorr_2023-11-02_01",
+    "tablePlaneFramesLeft": [
+	    "0002", "0058"
+    ],
+    "tablePlaneFramesRight": [],
+    "pointCloudsCorrectedDir": "pointCloudDataCorrected",
+    "firstFrame": [
+        "camId-1002_frameId-2_0_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_1_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_2_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_3_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_4_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_5_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-2_6_pointCloudFinal_ascii_transfo.pcd"      
+    ],
+    "secondFrame": [
+        "camId-1002_frameId-58_14_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_15_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_16_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_17_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_18_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_19_pointCloudFinal_ascii_transfo.pcd",
+        "camId-1002_frameId-58_20_pointCloudFinal_ascii_transfo.pcd"
+    ]
+}
